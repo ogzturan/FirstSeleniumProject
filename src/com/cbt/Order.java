@@ -128,7 +128,7 @@ public class Order {
 	        }
 
 	
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		driver.close();	
 		
 	}
