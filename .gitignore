@@ -1,5 +1,8 @@
-bin/
+bin
 .DS_Store
+src/com/cbt/AnotherTest.java
+src/com/cbt/BAsicAuthenticationTest.java
+src/com/cbt/GoogleTest.java
 
 
 
